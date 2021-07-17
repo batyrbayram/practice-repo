@@ -14,7 +14,7 @@ I am _passionate about_:
 
 - Data 
 
--PC Gaming
+- PC Gaming
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
