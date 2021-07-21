@@ -4,7 +4,7 @@
 
 Homework (HW) activity: _Practicing git commands and Markdown._
 
-![](Screen Shot 2021-07-20 at 10.14.01 PM "flpoly_student.md")
+![](file:///Users/bonka5612gmail.com/Desktop/Screen%20Shot%202021-07-20%20at%2010.14.01%20PM.png "flpoly_student.md")
 
 
 ***
