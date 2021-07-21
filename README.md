@@ -4,7 +4,7 @@
 
 Homework (HW) activity: _Practicing git commands and Markdown._
 
-![](file:///Users/bonka5612gmail.com/Desktop/Screen%20Shot%202021-07-20%20at%2010.14.01%20PM.png "flpoly_student.md")
+![](<img width="1092" alt="Screen Shot 2021-07-20 at 10 14 01 PM" src="https://user-images.githubusercontent.com/87090933/126421603-325e588c-6f4a-4699-be16-2d1ecfc214b8.png">
 
 
 ***
